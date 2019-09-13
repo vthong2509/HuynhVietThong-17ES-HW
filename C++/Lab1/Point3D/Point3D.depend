@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568382661 source:e:\desktop\c++\point3d\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
